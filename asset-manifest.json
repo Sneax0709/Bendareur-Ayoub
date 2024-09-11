@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bendareur-Ayoub/static/css/main.1c3ad664.css",
-    "main.js": "/Bendareur-Ayoub/static/js/main.a3a64da1.js",
-    "static/js/453.0a7f0965.chunk.js": "/Bendareur-Ayoub/static/js/453.0a7f0965.chunk.js",
+    "main.js": "/Bendareur-Ayoub/static/js/main.a527152f.js",
+    "static/js/453.1407b060.chunk.js": "/Bendareur-Ayoub/static/js/453.1407b060.chunk.js",
     "static/media/white_bg.mp4": "/Bendareur-Ayoub/static/media/white_bg.06a293a06aa55ecccf82.mp4",
     "static/media/tcsh.png": "/Bendareur-Ayoub/static/media/tcsh.9093eb82254f9d556dfb.png",
     "static/media/contact.png": "/Bendareur-Ayoub/static/media/contact.4b4227537daf6283a746.png",
@@ -26,11 +26,11 @@
     "static/media/css3.svg": "/Bendareur-Ayoub/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/html-5.svg": "/Bendareur-Ayoub/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.1c3ad664.css.map": "/Bendareur-Ayoub/static/css/main.1c3ad664.css.map",
-    "main.a3a64da1.js.map": "/Bendareur-Ayoub/static/js/main.a3a64da1.js.map",
-    "453.0a7f0965.chunk.js.map": "/Bendareur-Ayoub/static/js/453.0a7f0965.chunk.js.map"
+    "main.a527152f.js.map": "/Bendareur-Ayoub/static/js/main.a527152f.js.map",
+    "453.1407b060.chunk.js.map": "/Bendareur-Ayoub/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c3ad664.css",
-    "static/js/main.a3a64da1.js"
+    "static/js/main.a527152f.js"
   ]
 }
