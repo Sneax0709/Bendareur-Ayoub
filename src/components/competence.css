@@ -1,0 +1,34 @@
+#competence {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .competence-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Espace entre les compétences */
+  }
+  
+  .competence-item {
+    display: flex;
+    align-items: center;
+    font-size: 18px; /* Augmente la taille de la police */
+  }
+  
+  .competence-icon {
+    width: 50px;
+    margin-right: 8px;
+    opacity: 0.50;
+    transition: opacity 0.3s ease;
+  }
+  
+  .competence-icon:hover {
+    opacity: 1;
+  }

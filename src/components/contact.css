@@ -1,0 +1,42 @@
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Assure que la section prend toute la hauteur de la page */
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Espace entre les icônes */
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+  
+.contact-text {
+  font-size: px; /* Augmente la taille de la police */
+}
+.contact-icon {
+  width: 50px;
+  margin-right: 8px;
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+}
+
+.contact-icon:hover {
+  opacity: 1;
+}

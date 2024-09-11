@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #fefeff;
+  height: auto; /* Ajuste la hauteur en fonction du contenu */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 20px; /* Ajoute du padding pour un espacement interne */
+  width: 100%; /* Assure que le header prend toute la largeur de la page */
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

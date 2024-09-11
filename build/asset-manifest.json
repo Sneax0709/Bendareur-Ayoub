@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1c3ad664.css",
+    "main.js": "/portfolio/static/js/main.dc585035.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/white_bg.mp4": "/portfolio/static/media/white_bg.06a293a06aa55ecccf82.mp4",
+    "static/media/tcsh.png": "/portfolio/static/media/tcsh.9093eb82254f9d556dfb.png",
+    "static/media/contact.png": "/portfolio/static/media/contact.4b4227537daf6283a746.png",
+    "static/media/react.png": "/portfolio/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/person.png": "/portfolio/static/media/person.639dd575f4afb0eea58c.png",
+    "static/media/skills.png": "/portfolio/static/media/skills.be28a66c41755fc3098e.png",
+    "static/media/Menu.jpg": "/portfolio/static/media/Menu.beb6a15c5b00592d987d.jpg",
+    "static/media/experience.png": "/portfolio/static/media/experience.b5842c879afd01f36c32.png",
+    "static/media/c.png": "/portfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/Need4stek.jpeg": "/portfolio/static/media/Need4stek.20805d7777733eb6abc0.jpeg",
+    "static/media/MyRPG.jpeg": "/portfolio/static/media/MyRPG.dfba4e6630792083f59d.jpeg",
+    "static/media/Pong.avif": "/portfolio/static/media/Pong.f239e35cef7e10188418.avif",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/c++.svg": "/portfolio/static/media/c++.5eb1abc418ed3dd0e1d217f2e5fb2d1e.svg",
+    "static/media/python.svg": "/portfolio/static/media/python.82306baa2525cf40df9b34df18b1d04d.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.960388c5e2343837c72b9d46c2410833.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/git.svg": "/portfolio/static/media/git.43d387b77657117c0e407816cbf72476.svg",
+    "static/media/vscode.svg": "/portfolio/static/media/vscode.c95ccce217b9216b765737214d743d02.svg",
+    "static/media/css3.svg": "/portfolio/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/html-5.svg": "/portfolio/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.1c3ad664.css.map": "/portfolio/static/css/main.1c3ad664.css.map",
+    "main.dc585035.js.map": "/portfolio/static/js/main.dc585035.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c3ad664.css",
+    "static/js/main.dc585035.js"
+  ]
+}

@@ -1,0 +1,17 @@
+/* #projets {
+    background-color: rgb(170, 22, 145);
+    border: 10px solid #ccc;
+    padding: 20px;
+} */
+
+#projets {
+  padding: 20px;
+  text-align: center;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}

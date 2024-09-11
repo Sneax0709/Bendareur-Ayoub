@@ -1,0 +1,22 @@
+#presentation {
+    /* background-color: rgb(228, 62, 62);
+    border: 10px solid #ccc; */
+    padding: 20px; /* ajoute de l'espace entre les sections */
+}
+
+.presentation-box {
+    background-color: #9255c5; /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    max-width: 800px; /* Maximum width of the box */
+    width: 80%; /* Full width up to the max-width */
+    margin: 20px; /* Margin for spacing */
+  }
+  
+  .presentation-box p {
+    margin: 0; /* Remove default margin */
+    font-size: 2em; /* Increase font size */
+    line-height: 1.5; /* Improve readability */
+    color: white; /* White text */
+  }
