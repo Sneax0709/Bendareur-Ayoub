@@ -43,7 +43,7 @@ function App() {
             <DropdownItem img={user} text="Présentation" sectionId="presentation" />
             <DropdownItem img={skills} text="Compétence" sectionId="competence"/>
             <DropdownItem img={projets} text="Projets" sectionId="projets"/>
-            <DropdownItem img={experience} text="Expérience" sectionId="experiences"/>
+            {/* <DropdownItem img={experience} text="Expérience" sectionId="experiences"/> */}
             <DropdownItem img={contact} text="Contact" sectionId="contact"/>
             {/* <DropdownItem img={hobbies} text="Hobbies" sectionId="hobbies"/> */}
           </ul>
