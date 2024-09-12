@@ -27,10 +27,10 @@ function Contact() {
           </a>
         </li>
         <li className="contact-item">
-          <div onClick={() => copyToClipboard('ayoub.bendareur@epitech.eu')} className="contact-link" style={{ cursor: 'pointer' }}>
+        <a href="mailto:ayoub.bendareur@epitech.eu" className="contact-link">
             <MailOutlined className="contact-icon" style={{ fontSize: '30px', marginRight: '8px' }} />
             <span className="contact-text">Mail</span>
-          </div>
+        </a>
         </li>
       </ul>
     </section>

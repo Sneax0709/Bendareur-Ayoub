@@ -19,8 +19,8 @@ Ce projet est mon portfolio personnel, présentant mes compétences, expérience
 - ![CSS](./icons/css.svg) CSS
 - ![React](./icons/react.svg) React
 
-## Installation
+## Portfolio
 
-1. Clonez le dépôt :
+1. Copiez Coller :
    ```bash
-   git clone https://github.com/Sneax0709/portfolio.git
+   https://sneax0709.github.io/Bendareur-Ayoub
